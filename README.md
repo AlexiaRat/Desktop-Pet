@@ -24,7 +24,7 @@ This Desktop Pet application creates an interactive virtual pet on your desktop.
    - Enjoy challenging levels with varying difficulty.
 
 1.	**Music Player**
-    -Enjoy listening to music by only typing the music file name.
+    - Enjoy listening to music by only typing the music file name.
 
 ## Technologies Used
 - Python (Tkinter for GUI, Pygame for games)
@@ -46,11 +46,15 @@ This Desktop Pet application creates an interactive virtual pet on your desktop.
    ```bash
    pip install pygame pillow
 
-1.	Execute the 'pet.py' file using the following command:
-2.	Interact with the Desktop Pet through the provided buttons and mouse actions.
+3.	Execute the 'pet.py' file using the following command:
+   ```bash
+   make run
+   ```
+
+4.	Interact with the Desktop Pet through the provided buttons and mouse actions.
 
 ## Screenshots and Demonstrations
-
+![Alt text](/screenshots/1e52fc7d-0df6-4f3a-a5e2-0c357dda3ad4.jpg "Optional title")
 
 ## Team Contributions
 
@@ -77,9 +81,7 @@ This Desktop Pet application creates an interactive virtual pet on your desktop.
 
 
 ## Code Repository 
-
-
-## Dockerfile/Makefile
+[Link to the github repostory](https://github.com/catalina72/desktop_pet/)
 
 ## Challenges Faced and Resolutions
 

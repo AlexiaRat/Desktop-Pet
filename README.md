@@ -54,7 +54,17 @@ This Desktop Pet application creates an interactive virtual pet on your desktop.
 4.	Interact with the Desktop Pet through the provided buttons and mouse actions.
 
 ## Screenshots and Demonstrations
-![Alt text](/screenshots/1e52fc7d-0df6-4f3a-a5e2-0c357dda3ad4.jpg "Optional title")
+![Alt text](/screenshots/1.jpg "Optional title")
+![Alt text](/screenshots/2.jpg "Optional title")
+![Alt text](/screenshots/3.jpg "Optional title")
+![Alt text](/screenshots/4.jpg "Optional title")
+![Alt text](/screenshots/5.jpg "Optional title")
+![Alt text](/screenshots/6.jpg "Optional title")
+![Alt text](/screenshots/talk.jpg "Optional title")
+![Alt text](/screenshots/feed.jpg "Optional title")
+![Alt text](/screenshots/breakout.jpg "Optional title")
+![Alt text](/screenshots/dino.jpg "Optional title")
+![Alt text](/screenshots/snake.jpg "Optional title")
 
 ## Team Contributions
 

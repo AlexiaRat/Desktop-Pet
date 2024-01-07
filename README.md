@@ -99,10 +99,7 @@ This Desktop Pet application creates an interactive virtual pet on your desktop.
 ## Challenges Faced and Resolutions
 
 1. **Game Development:** Challenges in complexity and synchronization were addressed by breaking down tasks and utilizing game development libraries.
-2. **UI Design:** Collaborative efforts and user testing were employed to create an appealing and user-friendly interface.
-3. **Code Maintainability:** Clean and organized code was ensured by adopting best practices and conducting regular code reviews.
-4. **Compatibility Testing:** Thorough testing on various platforms resolved cross-platform compatibility issues.
-5. **Library Integration:** Challenges in integrating external libraries were tackled by following documentation and ensuring compatibility.
-6. **Error Handling and Testing:** Robust error handling and extensive testing addressed potential errors and edge cases during user interactions.
-7. **Performance Optimization:** Code efficiency improvements were implemented to optimize performance during animations and game sessions.
-8. **Version Control Collaboration:** Coordination of code contributions from multiple team members was managed through clear version control practices and prompt conflict resolution
+2. **Code Maintainability:** Clean and organized code was ensured by adopting best practices and conducting regular code reviews.
+3. **Library Integration:** Challenges in integrating external libraries were tackled by following documentation and ensuring compatibility.
+4. **Performance Optimization:** Code efficiency improvements were implemented to optimize performance during animations and game sessions.
+5. **Version Control Collaboration:** Coordination of code contributions from multiple team members was managed through clear version control practices and prompt conflict resolution

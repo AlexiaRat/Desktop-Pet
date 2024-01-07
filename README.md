@@ -62,6 +62,7 @@ This Desktop Pet application creates an interactive virtual pet on your desktop.
 ![Alt text](/screenshots/6.jpg "Optional title")
 ![Alt text](/screenshots/talk.jpg "Optional title")
 ![Alt text](/screenshots/feed.jpg "Optional title")
+![Alt text](/screenshots/joke.jpg "Optional title")
 ![Alt text](/screenshots/breakout.jpg "Optional title")
 ![Alt text](/screenshots/dino.jpg "Optional title")
 ![Alt text](/screenshots/snake.jpg "Optional title")
